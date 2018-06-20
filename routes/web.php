@@ -1,5 +1,7 @@
 <?php
 
+// Petit test pour la branche AdminPostsController
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
